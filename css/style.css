@@ -1,0 +1,144 @@
+.nav-brand {
+  padding-top: 0.1rem;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.nav-link{
+  margin-right: 30px;
+  font-family: 'Assistant', sans-serif;
+  font-weight: 400;
+  color: #C52323
+  
+}
+
+.banner{
+  background: url(../image/banner.JPG) center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 10%;
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.about {
+  color: white;
+  background-color:#C52323 ;
+}
+
+.about h2 {
+  padding-top: 50px;
+}
+
+.about p {
+  padding-bottom: 50px;
+}
+
+
+/* css portofolio */
+
+.portofolio {
+padding-top: 100px;
+}
+
+/* blog */
+.blog {
+  background-color: #C52323;
+  padding-top:60px;
+  padding-bottom: 60px;
+}
+
+.blog-text {
+  color: white;
+}
+
+
+
+
+
+/* Destop youtube */
+
+@media (min-width: 1200px) {
+
+  iframe {
+  width: 560px;
+  height: 315px;
+}
+}
+
+.videoyt{
+  background-color: lightgrey;
+}
+
+
+.kelas {
+  margin-top: 100px;
+}
+
+.card-kelas {
+  background-color: #C52323;
+}
+
+.testimonial img {
+  width: 150px;
+  height: 150px;
+}
+
+/* css pengajar */
+
+.lingkaran{
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: white;
+  background-color: #C52323;
+}
+
+.lingkaran{
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: white;
+  background-color: #C52323;
+}
+
+.lingkaran  i{
+  position: relative;
+  top: 30px;
+  
+}
+
+.crop-img{
+  object-fit: cover;
+}
+
+
+.tim img{
+
+  border: 7px solid #C52323 ;
+}
+
+a.sosial{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #C52323;
+  line-height: 40px;
+}
+
+h2 {
+  font-family: viga;
+  font-size: 50px;
+ 
+}
+
+h1 {
+  font-family: viga;
+  font-size: 80px;
+}
